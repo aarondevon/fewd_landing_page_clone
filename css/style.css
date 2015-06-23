@@ -1,0 +1,20 @@
+body {
+  background-color: LightGray;
+}
+
+div {
+  border: 1px solid Chocolate;
+}
+.navbar {
+  background-color: white;
+}
+
+.logo {
+  width: 26px;
+ 
+  }
+
+  .navlinks, li {
+    list-style: none;
+    display: inline-block;
+  }
